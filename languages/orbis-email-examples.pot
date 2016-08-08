@@ -1,0 +1,86 @@
+# Copyright (C) 2016 Pronamic
+# This file is distributed under the Copyright (c) Pronamic.
+msgid ""
+msgstr ""
+"Project-Id-Version: Orbis Email Examples 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/orbis-email-examples\n"
+"POT-Creation-Date: 2014-03-05 14:59:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: includes/post.php:10 includes/post.php:23
+msgid "Email Examples"
+msgstr ""
+
+#: includes/post.php:14
+msgid "Add New"
+msgstr ""
+
+#: includes/post.php:15
+msgid "Add New Email Example"
+msgstr ""
+
+#: includes/post.php:16
+msgid "Edit Email Example"
+msgstr ""
+
+#: includes/post.php:17
+msgid "New Email Example"
+msgstr ""
+
+#: includes/post.php:18
+msgid "View Email Example"
+msgstr ""
+
+#: includes/post.php:19
+msgid "Search Email Examples"
+msgstr ""
+
+#: includes/post.php:20
+msgid "No email examples found"
+msgstr ""
+
+#: includes/post.php:21
+msgid "No email examples found in Trash"
+msgstr ""
+
+#: includes/post.php:22
+msgid "Parent Email Example:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Orbis Email Examples"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.pronamic.eu/plugins/orbis-email-examples/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pronamic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pronamic.eu/"
+msgstr ""
+
+#: includes/post.php:12
+msgctxt "post type general name"
+msgid "Email Examples"
+msgstr ""
+
+#: includes/post.php:13
+msgctxt "post type singular name"
+msgid "Email Example"
+msgstr ""
+
+#: includes/post.php:31
+msgctxt "slug"
+msgid "email-examples"
+msgstr ""
