@@ -2,7 +2,7 @@
 /*
 Plugin Name: Orbis Email Examples
 Plugin URI: https://www.pronamic.eu/plugins/orbis-email-examples/
-Description: 
+Description:
 
 Version: 1.0.0
 Requires at least: 3.5
